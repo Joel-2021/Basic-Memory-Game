@@ -13,22 +13,22 @@ var openCard = [];
 
 //image source
 var imgSrc = [
-  "/Images/dog.png",
-  "/Images/duck.png",
-  "/Images/frog.png",
-  "/Images/ice-cream.png",
-  "/Images/plane.png",
-  "/Images/rabbit.png",
-  "/Images/sword.png",
-  "/Images/tower.png",
-  "/Images/dog.png",
-  "/Images/duck.png",
-  "/Images/frog.png",
-  "/Images/ice-cream.png",
-  "/Images/plane.png",
-  "/Images/rabbit.png",
-  "/Images/sword.png",
-  "/Images/tower.png",
+  "Images/dog.png",
+  "Images/duck.png",
+  "Images/frog.png",
+  "Images/ice-cream.png",
+  "Images/plane.png",
+  "Images/rabbit.png",
+  "Images/sword.png",
+  "Images/tower.png",
+  "Images/dog.png",
+  "Images/duck.png",
+  "Images/frog.png",
+  "Images/ice-cream.png",
+  "Images/plane.png",
+  "Images/rabbit.png",
+  "Images/sword.png",
+  "Images/tower.png",
 ];
 
 for (var i = 0; i < cards.length; i++) {
